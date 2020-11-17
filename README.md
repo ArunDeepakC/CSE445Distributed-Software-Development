@@ -1,4 +1,5 @@
 # CSE445Distributed-Software-Development
+Technology- Visual Studio 2019, Windows communication Foundation (WCF), ASP.NET, C#, XML
 Project 1- Temperature conversion service and web browser
 
 Project 2- Ticketing System using Event-driven programming and multithreading 
