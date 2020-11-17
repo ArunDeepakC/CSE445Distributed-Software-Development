@@ -1,0 +1,10 @@
+C:\Users\hp\Desktop\Assignment1\Temperature_form_app\bin\Debug\Temperature_form_app.exe.config
+C:\Users\hp\Desktop\Assignment1\Temperature_form_app\bin\Debug\Temperature_form_app.exe
+C:\Users\hp\Desktop\Assignment1\Temperature_form_app\bin\Debug\Temperature_form_app.pdb
+C:\Users\hp\Desktop\Assignment1\Temperature_form_app\obj\Debug\Temperature_form_app.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Assignment1\Temperature_form_app\obj\Debug\Temperature_form_app.Form1.resources
+C:\Users\hp\Desktop\Assignment1\Temperature_form_app\obj\Debug\Temperature_form_app.Properties.Resources.resources
+C:\Users\hp\Desktop\Assignment1\Temperature_form_app\obj\Debug\Temperature_form_app.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\Assignment1\Temperature_form_app\obj\Debug\Temperature_form_app.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Assignment1\Temperature_form_app\obj\Debug\Temperature_form_app.exe
+C:\Users\hp\Desktop\Assignment1\Temperature_form_app\obj\Debug\Temperature_form_app.pdb

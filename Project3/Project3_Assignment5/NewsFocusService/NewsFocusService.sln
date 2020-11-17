@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsFocusService", "NewsFocusService.csproj", "{299F509D-64D2-4436-BFAD-F795F9143068}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsFocusWebApplication", "..\NewsFocusWebApplication\NewsFocusWebApplication.csproj", "{0D575DC1-1189-4964-9A04-F2A5F7492611}"
+	ProjectSection(ProjectDependencies) = postProject
+		{299F509D-64D2-4436-BFAD-F795F9143068} = {299F509D-64D2-4436-BFAD-F795F9143068}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{299F509D-64D2-4436-BFAD-F795F9143068}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{299F509D-64D2-4436-BFAD-F795F9143068}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{299F509D-64D2-4436-BFAD-F795F9143068}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{299F509D-64D2-4436-BFAD-F795F9143068}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D575DC1-1189-4964-9A04-F2A5F7492611}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D575DC1-1189-4964-9A04-F2A5F7492611}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D575DC1-1189-4964-9A04-F2A5F7492611}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D575DC1-1189-4964-9A04-F2A5F7492611}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6017A09E-580E-4FE9-B54F-4E526695B19B}
+	EndGlobalSection
+EndGlobal

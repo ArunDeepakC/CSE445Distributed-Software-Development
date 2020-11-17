@@ -1,0 +1,7 @@
+C:\Users\hp\Desktop\naturalhazardservice\NaturalHazardService\bin\NaturalHazardService.dll.config
+C:\Users\hp\Desktop\naturalhazardservice\NaturalHazardService\bin\NaturalHazardService.dll
+C:\Users\hp\Desktop\naturalhazardservice\NaturalHazardService\bin\NaturalHazardService.pdb
+C:\Users\hp\Desktop\naturalhazardservice\NaturalHazardService\obj\Debug\NaturalHazardService.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\naturalhazardservice\NaturalHazardService\obj\Debug\NaturalHazardService.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\naturalhazardservice\NaturalHazardService\obj\Debug\NaturalHazardService.dll
+C:\Users\hp\Desktop\naturalhazardservice\NaturalHazardService\obj\Debug\NaturalHazardService.pdb

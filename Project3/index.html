@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            h1 {text-align: center;}
+            p {text-align: center;}
+            div {text-align: center;}
+            table, th, td {border: 1px solid black;
+                border-collapse: collapse;}
+            th, td {padding: 15px;}
+            th {font-weight:bold; text-align: left;}
+            
+
+            </style>
+    </head>
+    <body>
+        <h1>Team 5 Service Directory</h1>
+        <table style="width:100%">
+            <tr>
+                <td colspan="5">&nbsp;<b>Service Directory: </b>The team plan to complete the following services.</td>
+            </tr>
+            <tr>
+                <td colspan="5">&nbsp;This service directory will be deployed at this address: <a href="http://webstrar5.fulton.asu.edu/index.html">http://webstrar5.fulton.asu.edu/index.html</a></td>
+            </tr>
+            <tr>
+                <td colspan="5">&nbsp;<b>Team name: 5</b></td>
+            </tr> 
+            <tr>
+                <th>Provider name</th>
+                <th>Service name with input and output types</th>
+                <th>TryIt Link</th>
+                <th>Service Description</th>
+                <th>Planned resources need to implement the service</th>
+            </tr>
+            <tr>
+                <td>Rishti Gupta </td>
+                <td><b><u>Top10Words:&nbsp;&nbsp;(Required Service)</u></b><br />
+                    <b>Input: </b>A web page url string<br />
+                    <b>Output: </b>An array of strings that contains the ten most-frequently occurred words in descending order of their frequencies</td>
+                <td><a href="http://webstrar5.fulton.asu.edu/page8/Top10Words.aspx">http://webstrar5.fulton.asu.edu/page8/Top10Words.aspx</a></td>
+                <td>Analyze the webpage at a given url and return the ten most-frequently occurred words in the webpage. Return the words in the descending order of their appearing frequencies</td>
+                <td>Write my own code and use local components.</td>
+            </tr>
+            <tr>
+                <td>Rishti Gupta</td>
+                <td><b><u>Find Nearest Stores:&nbsp;&nbsp;(Required Service) </u></b><br />
+                    <b>Input: </b>two strings<br />
+                    <b>Output: </b>string message</td>
+                <td><a href="http://webstrar5.fulton.asu.edu/page8/NearestStores.aspx">http://webstrar5.fulton.asu.edu/page8/NearestStores.aspx</a></td>
+                <td>Find the provided storeName closest to the zip code and return the address. If no store is found, return an error message</td>
+                <td>
+                    <b><u>API Used:</u></b><br />   
+                    1). Getting latitude and longitude from a given zip code: Geocoding API (Google) - <a href="https://console.cloud.google.com">https://console.cloud.google.com</a><br />
+                    2). Getting the address of the nearest store taking the store name as the parameter: Google Places API- <a href="https://console.cloud.google.com"> https://console.cloud.google.com/</a>
+                </td>
+            </tr>
+            <tr>
+                <td>Rishti Gupta</td>
+                <td><b><u>Find Distance And Duration:&nbsp;&nbsp;(Elective Service)</u></b><br />
+                    <b>Input: </b>Address/zip for origin and destination<br />
+                    <b>Output: </b> Distance and Travel Duration between between origin and destination </td>
+                <td><a href="http://webstrar5.fulton.asu.edu/page8/FindDistanceAndDuration.aspx">http://webstrar5.fulton.asu.edu/page8/FindDistanceAndDuration.aspx</a></td>
+                <td>Get the distance and travel duration between the origin and destination by taking in either the address or zip code of origin and destination.</td>
+                <td>
+                    <b><u>API Used:</u></b><br />   
+                    1). Getting latitude and longitude from a given zip code: Geocoding API (Google) -<a href="https://console.cloud.google.com/ "> https://console.cloud.google.com/ </a><br />
+                    2). Getting the distance and travel duration information from Distance Matrix Google API: - <a href="https://console.cloud.google.com/">https://console.cloud.google.com/</a>
+                </td>
+            </tr>
+            <tr>
+                <td>Rishti Gupta</td>
+                <td><b><u>Weather Conditions Service:&nbsp;&nbsp;(Elective Service)</u></b><br />
+                    <b>Input: </b> a U.S. zip code <br />
+                    <b>Output: </b>An array (or list) of strings, storing 5-day weather forecast for the given zip code location
+                </td>
+                <td><a href="http://webstrar5.fulton.asu.edu/page8/WeatherConditions.aspx">http://webstrar5.fulton.asu.edu/page8/WeatherConditions.aspx</a></td>
+                <td>
+                    Get a 5-day weather forecast service of zip code location
+                </td>
+                <td>
+                    Retrieve information from:<br />
+                    <a href="https://openweathermap.org/api"> https://openweathermap.org/api</a>
+                </td>
+            </tr>
+            <tr>
+                <td>Arun Deepak Chandrasekar</td>
+                <td><b><u>News Focus:&nbsp;&nbsp;(Required Service) </u></b><br />
+                    <b>Input: </b> a list of topics or key words <br />
+                    <b>Output: </b>A list of URLs in which the given topics are reported
+                </td>
+                <td><a href="http://webstrar5.fulton.asu.edu/page9/NewsFocusTryIt.aspx">http://webstrar5.fulton.asu.edu/page9/NewsFocusTryIt.aspx</a></td>
+                <td>Find news links on specific topics</td>
+                <td>Retrieve information from :
+                    <a href="http://content.guardianapis.com/search?q= ">http://content.guardianapis.com/search?q= </a></td>
+            </tr>
+            <tr>
+                <td>Arun Deepak Chandrasekar</td>
+                <td><b><u>Natural Hazards:&nbsp;&nbsp;(Required Service) </u></b><br />
+                    <b>Input: </b> latitude and longitude <br />
+                    <b>Output: </b> a number reflecting the natural hazards at the location
+                </td>
+                <td><a href="http://webstrar5.fulton.asu.edu/page9/NaturalHazardTryIt.aspx">http://webstrar5.fulton.asu.edu/page9/NaturalHazardTryIt.aspx</a></td>
+                <td>Create a service that returns the natural hazards (Tsunamis, earthquake, volcanoes) index of a given </td>
+                <td>Use the service from USGS site:
+                    <a href="https://earthquake.usgs.gov/ws/">https://earthquake.usgs.gov/ws/</a>
+                </td>
+            </tr>
+            <tr>
+                <td>Arun Deepak Chandrasekar</td>
+                <td><b><u>Gas Station Service: &nbsp;&nbsp;(Elective Service)</u></b><br />
+                    <b>Input: </b> address string<br />
+                    <b>Output: </b> get nearby gas station details as list of strings- station name, street address, fuel type, station type
+                </td>
+                <td><a href="http://webstrar5.fulton.asu.edu/page9/GasStationTryIt.aspx">http://webstrar5.fulton.asu.edu/page9/GasStationTryIt.aspx</a></td>
+                <td>The restful service takes an address as input and returns details of nearby gas stations including gas station name, street address, fuel type eg. LPG, CNG, electric, station type eg. grocery store.</td>
+                <td>
+                    <b><u>API Used:</u></b><br />   
+                    1). Getting latitude and longitude from a given zip code: Geocoding API (Google) -<a href="https://console.cloud.google.com/ "> https://console.cloud.google.com/ </a><br />
+                    2). Retrieve information from - <a href="https://developer.nrel.gov/docs/transportation/alt-fuel-stations-v1/nearest"> https://developer.nrel.gov/docs/transportation/alt-fuel-stations-v1/nearest/</a>
+                </td>
+            </tr>
+            <tr>
+                <td>Arun Deepak Chandrasekar</td>
+                <td><b><u>User Registration Service: &nbsp;&nbsp;(Elective Service)</u></b><br />
+                    <b>Input: </b> string username and password<br />
+                    <b>Output: </b> boolean value representing successful user registration
+                </td>
+                <td><a href="http://webstrar5.fulton.asu.edu/page9/UserRegistrationServiceTryIt.aspx">http://webstrar5.fulton.asu.edu/page9/UserRegistrationServiceTryIt.aspx</a></td>
+                <td>The WSDL/SOAP service registers the users by storing user credentials in a JSON file named database.json in the server.</td>
+                <td>Write my own code and use local components.</td>
+            </tr>              
+          </table>
+    </body>
+</html>

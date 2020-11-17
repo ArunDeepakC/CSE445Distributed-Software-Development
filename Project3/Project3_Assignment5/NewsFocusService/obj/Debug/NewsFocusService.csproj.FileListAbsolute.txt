@@ -1,0 +1,10 @@
+C:\Users\hp\Desktop\assignment_5\NewsFocusService\obj\Debug\NewsFocusService.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\assignment_5\NewsFocusService\obj\Debug\NewsFocusService.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\assignment_5\NewsFocusService\bin\NewsFocusService.dll.config
+C:\Users\hp\Desktop\assignment_5\NewsFocusService\bin\NewsFocusService.dll
+C:\Users\hp\Desktop\assignment_5\NewsFocusService\bin\NewsFocusService.pdb
+C:\Users\hp\Desktop\assignment_5\NewsFocusService\bin\Newtonsoft.Json.dll
+C:\Users\hp\Desktop\assignment_5\NewsFocusService\bin\Newtonsoft.Json.xml
+C:\Users\hp\Desktop\assignment_5\NewsFocusService\obj\Debug\NewsFocusService.csproj.CopyComplete
+C:\Users\hp\Desktop\assignment_5\NewsFocusService\obj\Debug\NewsFocusService.dll
+C:\Users\hp\Desktop\assignment_5\NewsFocusService\obj\Debug\NewsFocusService.pdb

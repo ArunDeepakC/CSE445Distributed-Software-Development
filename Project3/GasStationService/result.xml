@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfGasStationList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GasStationList>
+    <station_name>EV2018</station_name>
+    <station_address>ASU Parking Lot 55 1130 E University Dr</station_address>
+    <fuel_type>ELEC</fuel_type>
+    <station_type />
+  </GasStationList>
+  <GasStationList>
+    <station_name>EV2018</station_name>
+    <station_address>510 South Dorsey Lane</station_address>
+    <fuel_type>ELEC</fuel_type>
+    <station_type />
+  </GasStationList>
+  <GasStationList>
+    <station_name>EV2018</station_name>
+    <station_address>Tyler Garage - Level 1 Charger 901 S. McAllister</station_address>
+    <fuel_type>ELEC</fuel_type>
+    <station_type />
+  </GasStationList>
+  <GasStationList>
+    <station_name>EV2018</station_name>
+    <station_address>Tyler Parking Garage - Unit 1 - Level 2 charger 901 South McAllister Ave</station_address>
+    <fuel_type>ELEC</fuel_type>
+    <station_type />
+  </GasStationList>
+  <GasStationList>
+    <station_name>EV2018</station_name>
+    <station_address>Tyler Parking Garage - Unit 2 - Level 2 charger 901 South McAllister Ave</station_address>
+    <fuel_type>ELEC</fuel_type>
+    <station_type />
+  </GasStationList>
+  <GasStationList>
+    <station_name>EV2018</station_name>
+    <station_address>Novus Place Garage 747 E Packard Dr</station_address>
+    <fuel_type>ELEC</fuel_type>
+    <station_type />
+  </GasStationList>
+  <GasStationList>
+    <station_name>EV2018</station_name>
+    <station_address>Rural Road Parking Garage - Level 1 charger 1100 S Rural Road</station_address>
+    <fuel_type>ELEC</fuel_type>
+    <station_type />
+  </GasStationList>
+  <GasStationList>
+    <station_name>LENNAR</station_name>
+    <station_address>1221-1299 E Apache Blvd</station_address>
+    <fuel_type>ELEC</fuel_type>
+    <station_type />
+  </GasStationList>
+  <GasStationList>
+    <station_name>NOVUS STRUCTURE</station_name>
+    <station_address>Novus Place Garage 747 E Packard Dr</station_address>
+    <fuel_type>ELEC</fuel_type>
+    <station_type />
+  </GasStationList>
+  <GasStationList>
+    <station_name>LENNAR</station_name>
+    <station_address>1221 Apache Blvd</station_address>
+    <fuel_type>ELEC</fuel_type>
+    <station_type />
+  </GasStationList>
+  <GasStationList>
+    <station_name>LENNAR</station_name>
+    <station_address>1221 E Apache Blvd</station_address>
+    <fuel_type>ELEC</fuel_type>
+    <station_type />
+  </GasStationList>
+  <GasStationList>
+    <station_name>EV2018</station_name>
+    <station_address>Packard Drive South Garage 555 S Packard Dr</station_address>
+    <fuel_type>ELEC</fuel_type>
+    <station_type />
+  </GasStationList>
+  <GasStationList>
+    <station_name>EV2018</station_name>
+    <station_address>ASU Parking Lot 41 651 East Orange St</station_address>
+    <fuel_type>ELEC</fuel_type>
+    <station_type />
+  </GasStationList>
+  <GasStationList>
+    <station_name>EV2018</station_name>
+    <station_address>ASU Parking Lot 45 1551 S Rural Road</station_address>
+    <fuel_type>ELEC</fuel_type>
+    <station_type />
+  </GasStationList>
+  <GasStationList>
+    <station_name>EV2018</station_name>
+    <station_address>Stadium Parking Garage-Level 1 Charger 401 E Veterans Way</station_address>
+    <fuel_type>ELEC</fuel_type>
+    <station_type />
+  </GasStationList>
+  <GasStationList>
+    <station_name>EV2018</station_name>
+    <station_address>Stadium Parking Garage -Level 2 Charger 401 E Veterans Way</station_address>
+    <fuel_type>ELEC</fuel_type>
+    <station_type />
+  </GasStationList>
+  <GasStationList>
+    <station_name>EV2018</station_name>
+    <station_address>Fulton Center Parking Garage 715 S College Ave</station_address>
+    <fuel_type>ELEC</fuel_type>
+    <station_type />
+  </GasStationList>
+  <GasStationList>
+    <station_name>EV2018</station_name>
+    <station_address>ASU Parking Lot 67 275 E 6th Street</station_address>
+    <fuel_type>ELEC</fuel_type>
+    <station_type />
+  </GasStationList>
+  <GasStationList>
+    <station_name>EV2018</station_name>
+    <station_address>Apache Blvd Parking Garage - Level 1 charger 401 E Lemon St</station_address>
+    <fuel_type>ELEC</fuel_type>
+    <station_type />
+  </GasStationList>
+  <GasStationList>
+    <station_name>EV2018</station_name>
+    <station_address>ASU Parking Lot 13 240 E Lemon St</station_address>
+    <fuel_type>ELEC</fuel_type>
+    <station_type />
+  </GasStationList>
+</ArrayOfGasStationList>

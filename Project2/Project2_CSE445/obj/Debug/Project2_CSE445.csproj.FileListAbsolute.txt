@@ -1,0 +1,18 @@
+C:\Users\Rishti Gupta\OneDrive\Desktop\semester-3\DSOD\Project2_CSE445\Project2_CSE445\obj\Debug\Project2_CSE445.csprojAssemblyReference.cache
+C:\Users\Rishti Gupta\OneDrive\Desktop\semester-3\DSOD\Project2_CSE445\Project2_CSE445\obj\Debug\Project2_CSE445.Properties.Resources.resources
+C:\Users\Rishti Gupta\OneDrive\Desktop\semester-3\DSOD\Project2_CSE445\Project2_CSE445\obj\Debug\Project2_CSE445.csproj.GenerateResource.cache
+C:\Users\Rishti Gupta\OneDrive\Desktop\semester-3\DSOD\Project2_CSE445\Project2_CSE445\obj\Debug\Project2_CSE445.csproj.CoreCompileInputs.cache
+C:\Users\Rishti Gupta\OneDrive\Desktop\semester-3\DSOD\Project2_CSE445\Project2_CSE445\bin\Debug\Project2_CSE445.exe.config
+C:\Users\Rishti Gupta\OneDrive\Desktop\semester-3\DSOD\Project2_CSE445\Project2_CSE445\bin\Debug\Project2_CSE445.exe
+C:\Users\Rishti Gupta\OneDrive\Desktop\semester-3\DSOD\Project2_CSE445\Project2_CSE445\bin\Debug\Project2_CSE445.pdb
+C:\Users\Rishti Gupta\OneDrive\Desktop\semester-3\DSOD\Project2_CSE445\Project2_CSE445\obj\Debug\Project2_CSE445.exe
+C:\Users\Rishti Gupta\OneDrive\Desktop\semester-3\DSOD\Project2_CSE445\Project2_CSE445\obj\Debug\Project2_CSE445.pdb
+C:\Users\hp\Downloads\Project2_CSE445_Team5\Project2_CSE445\Project2_CSE445\bin\Debug\Project2_CSE445.exe.config
+C:\Users\hp\Downloads\Project2_CSE445_Team5\Project2_CSE445\Project2_CSE445\bin\Debug\Project2_CSE445.exe
+C:\Users\hp\Downloads\Project2_CSE445_Team5\Project2_CSE445\Project2_CSE445\bin\Debug\Project2_CSE445.pdb
+C:\Users\hp\Downloads\Project2_CSE445_Team5\Project2_CSE445\Project2_CSE445\obj\Debug\Project2_CSE445.csprojAssemblyReference.cache
+C:\Users\hp\Downloads\Project2_CSE445_Team5\Project2_CSE445\Project2_CSE445\obj\Debug\Project2_CSE445.Properties.Resources.resources
+C:\Users\hp\Downloads\Project2_CSE445_Team5\Project2_CSE445\Project2_CSE445\obj\Debug\Project2_CSE445.csproj.GenerateResource.cache
+C:\Users\hp\Downloads\Project2_CSE445_Team5\Project2_CSE445\Project2_CSE445\obj\Debug\Project2_CSE445.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\Project2_CSE445_Team5\Project2_CSE445\Project2_CSE445\obj\Debug\Project2_CSE445.exe
+C:\Users\hp\Downloads\Project2_CSE445_Team5\Project2_CSE445\Project2_CSE445\obj\Debug\Project2_CSE445.pdb

@@ -1,0 +1,25 @@
+Team #5:
+PROJECT-2 ASU CSE_445
+
+CONTRIBUTORS:
+
+1). 
+Name:   Rishti Gupta
+ASUID:  1217211814
+Email:  rgupta75@asu.edu
+Class:  CSE-445 (#96279)
+
+
+Classes done individually: Program.cs, TravelAgency.cs, OrderClass.cs
+Classes done collectively: Decoder.cs, Encoder.cs, MultiBuffer.cs, PriceCutEventArgs.cs
+-------------------------------------------------------------------------------------------------------
+
+2).
+Name:   Arun Deepak Chandrasekar
+ASUID:  1217200647
+Email:  achand66@asu.edu
+Class:  CSE-445 (#96279)
+
+Classes done individually: Park.cs, PricingModel.cs, OrderProcessing.cs
+Classes done collectively: Decoder.cs, Encoder.cs, MultiBuffer.cs, PriceCutEventArgs.cs
+--------------------------------------------------------------------------------------------------------

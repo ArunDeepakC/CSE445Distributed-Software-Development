@@ -1,0 +1,7 @@
+C:\Users\hp\Desktop\Assignment1\Assignment1\bin\Assignment1.dll.config
+C:\Users\hp\Desktop\Assignment1\Assignment1\bin\Assignment1.dll
+C:\Users\hp\Desktop\Assignment1\Assignment1\bin\Assignment1.pdb
+C:\Users\hp\Desktop\Assignment1\Assignment1\obj\Debug\Assignment1.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Assignment1\Assignment1\obj\Debug\Assignment1.dll
+C:\Users\hp\Desktop\Assignment1\Assignment1\obj\Debug\Assignment1.pdb

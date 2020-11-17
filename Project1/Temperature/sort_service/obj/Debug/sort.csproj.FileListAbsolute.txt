@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\Assignment1\sort\bin\sort.dll.config
+C:\Users\hp\Desktop\Assignment1\sort\bin\sort.dll
+C:\Users\hp\Desktop\Assignment1\sort\bin\sort.pdb
+C:\Users\hp\Desktop\Assignment1\sort\obj\Debug\sort.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Assignment1\sort\obj\Debug\sort.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Assignment1\sort\obj\Debug\sort.dll
+C:\Users\hp\Desktop\Assignment1\sort\obj\Debug\sort.pdb
+C:\Users\hp\Desktop\Assignment1\sort_service\bin\sort.dll.config
+C:\Users\hp\Desktop\Assignment1\sort_service\bin\sort.dll
+C:\Users\hp\Desktop\Assignment1\sort_service\bin\sort.pdb
+C:\Users\hp\Desktop\Assignment1\sort_service\obj\Debug\sort.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Assignment1\sort_service\obj\Debug\sort.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Assignment1\sort_service\obj\Debug\sort.dll
+C:\Users\hp\Desktop\Assignment1\sort_service\obj\Debug\sort.pdb
