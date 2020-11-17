@@ -1,6 +1,8 @@
 # CSE445Distributed-Software-Development
 Project 1- Temperature conversion service and web browser
+
 Project 2- Ticketing System using Event-driven programming and multithreading 
+
 Project 3- WSDL/SOAP and Restful services deployed in webstrar server
 NewsFocus- WSDL/SOAP service
 Natural Hazards- WSDL/SOAP service
